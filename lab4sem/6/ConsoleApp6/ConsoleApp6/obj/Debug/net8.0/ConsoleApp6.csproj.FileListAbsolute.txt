@@ -1,0 +1,14 @@
+/Users/sergey/Programming/C#/laba4sem/6/ConsoleApp6/ConsoleApp6/bin/Debug/net8.0/ConsoleApp6
+/Users/sergey/Programming/C#/laba4sem/6/ConsoleApp6/ConsoleApp6/bin/Debug/net8.0/ConsoleApp6.deps.json
+/Users/sergey/Programming/C#/laba4sem/6/ConsoleApp6/ConsoleApp6/bin/Debug/net8.0/ConsoleApp6.runtimeconfig.json
+/Users/sergey/Programming/C#/laba4sem/6/ConsoleApp6/ConsoleApp6/bin/Debug/net8.0/ConsoleApp6.dll
+/Users/sergey/Programming/C#/laba4sem/6/ConsoleApp6/ConsoleApp6/bin/Debug/net8.0/ConsoleApp6.pdb
+/Users/sergey/Programming/C#/laba4sem/6/ConsoleApp6/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergey/Programming/C#/laba4sem/6/ConsoleApp6/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.AssemblyInfoInputs.cache
+/Users/sergey/Programming/C#/laba4sem/6/ConsoleApp6/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.AssemblyInfo.cs
+/Users/sergey/Programming/C#/laba4sem/6/ConsoleApp6/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.csproj.CoreCompileInputs.cache
+/Users/sergey/Programming/C#/laba4sem/6/ConsoleApp6/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.dll
+/Users/sergey/Programming/C#/laba4sem/6/ConsoleApp6/ConsoleApp6/obj/Debug/net8.0/refint/ConsoleApp6.dll
+/Users/sergey/Programming/C#/laba4sem/6/ConsoleApp6/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.pdb
+/Users/sergey/Programming/C#/laba4sem/6/ConsoleApp6/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.genruntimeconfig.cache
+/Users/sergey/Programming/C#/laba4sem/6/ConsoleApp6/ConsoleApp6/obj/Debug/net8.0/ref/ConsoleApp6.dll
