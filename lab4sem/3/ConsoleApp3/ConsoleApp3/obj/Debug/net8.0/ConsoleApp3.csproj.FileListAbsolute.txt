@@ -1,0 +1,14 @@
+/Users/sergey/Programming/C#/laba4sem/3/ConsoleApp3/ConsoleApp3/bin/Debug/net8.0/ConsoleApp3
+/Users/sergey/Programming/C#/laba4sem/3/ConsoleApp3/ConsoleApp3/bin/Debug/net8.0/ConsoleApp3.deps.json
+/Users/sergey/Programming/C#/laba4sem/3/ConsoleApp3/ConsoleApp3/bin/Debug/net8.0/ConsoleApp3.runtimeconfig.json
+/Users/sergey/Programming/C#/laba4sem/3/ConsoleApp3/ConsoleApp3/bin/Debug/net8.0/ConsoleApp3.dll
+/Users/sergey/Programming/C#/laba4sem/3/ConsoleApp3/ConsoleApp3/bin/Debug/net8.0/ConsoleApp3.pdb
+/Users/sergey/Programming/C#/laba4sem/3/ConsoleApp3/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergey/Programming/C#/laba4sem/3/ConsoleApp3/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.AssemblyInfoInputs.cache
+/Users/sergey/Programming/C#/laba4sem/3/ConsoleApp3/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.AssemblyInfo.cs
+/Users/sergey/Programming/C#/laba4sem/3/ConsoleApp3/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+/Users/sergey/Programming/C#/laba4sem/3/ConsoleApp3/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.dll
+/Users/sergey/Programming/C#/laba4sem/3/ConsoleApp3/ConsoleApp3/obj/Debug/net8.0/refint/ConsoleApp3.dll
+/Users/sergey/Programming/C#/laba4sem/3/ConsoleApp3/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.pdb
+/Users/sergey/Programming/C#/laba4sem/3/ConsoleApp3/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.genruntimeconfig.cache
+/Users/sergey/Programming/C#/laba4sem/3/ConsoleApp3/ConsoleApp3/obj/Debug/net8.0/ref/ConsoleApp3.dll
